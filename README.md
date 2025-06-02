@@ -1,5 +1,7 @@
 # Periscoped.io Website
 
+**🔗 Repository:** [https://github.com/Persicoped/periscoped_website](https://github.com/Persicoped/periscoped_website)
+
 ## Overview
 
 The official website for Periscoped.io - an AI-first development team that builds market-disrupting software and operational systems with unparalleled speed and quality.
